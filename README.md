@@ -4,12 +4,17 @@
 
 ## 프로젝트 생성 방법
 
-> npm install -g @vue/cli
+```bash
+npm install -g @vue/cli
+```
 
+```bash
 > vue create "Project-Name"
+```
 
+```bash
 > yarn serve
-
+```
 
 ## Let's get started!
 
