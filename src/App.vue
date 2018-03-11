@@ -1,6 +1,5 @@
 <template>
   <div id="app">
-    <img src="./assets/logo.png">
     <Skiils msg="Welcome to Your Vue.js App"/>
   </div>
 </template>

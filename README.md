@@ -7,3 +7,6 @@
 > npm install -g @vue/cli
 
 > vue create "Project-Name"
+
+> yarn serve
+
