@@ -29,3 +29,17 @@ npm install -g @vue/cli
 > List Rendering [리스트 렌더링](https://kr.vuejs.org/v2/guide/list.html)
 
 > Event Handling [이벤트 핸들링](https://kr.vuejs.org/v2/guide/events.html)
+
+> Vue Forms - Capturing and Validating User Input
+
+```bash
+yarn add vee-validate [A popular validation package called VeeValidate]
+```
+
+> Vue Animation [Animate.css](https://daneden.github.io/animate.css/)
+
+> Vue Router
+
+```bash
+yarn add vue-router
+```
